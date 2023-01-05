@@ -1,5 +1,5 @@
 /*
-Theme Name: Udemy 2023
+Theme Name: Udemy
 Theme URI: https://udemy.com
 Author: Aiman & Luis
 Author URI: https://wordpress.org/
